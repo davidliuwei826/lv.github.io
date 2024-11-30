@@ -2,7 +2,7 @@
 
 Self introduction:
 ____________________________________________________________________________________________________________
-My name is Wei Liu, I am a principal researcher in Fujitsu R&D center Beijing, China. My research topic is computer vision, AIGC, lage language model etc. I obtained my Master degree in Tianjin University in 2010 majored in image processing. My wife is Dang Si, she is a perfect person. I have lovely family life and love her so much. We got married in Dec.2022. I originally come from ChengDe, Hebei province.
+My name is Wei Liu, I am a principal researcher in Fujitsu R&D center Beijing, China. My research topic is computer vision, AIGC, lage language model etc. I obtained my Master degree in Tianjin University in 2010 majored in image processing. I originally come from Chengde, Hebei province. I got married in Dec.2022. My wife is a perfect person. I love her so much and my family life is happy.
 
 Publications:
 ____________________________________________________________________________________________________________
