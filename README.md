@@ -6,9 +6,9 @@ My name is Wei Liu, I am a principal researcher in Fujitsu R&D center Beijing, C
 
 Publications:
 
-1. Wei Liu, Liuan Wang, Jun Sun.Efficient Object Placement Via LLM and Diffusion Model. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025.
-2. Wei Liu, Liuan Wang, Jun Sun. NR-CION: Non-Rigid Consistent Image Composition Via Diffusion Model. International Conference on Pattern Recognition (ICPR) 2024.
-3. Wei Liu, Huigang Zhang, Xiaojie Xia, Liuan Wang, Jun Sun.Semantic-Embedded Knowledge Acquisition and Reasoning for Image Segmentation. IEEE International Conference on Image Processing (ICIP) 2023.
+1. Wei Liu, Liuan Wang, Jun Sun.Efficient Object Placement Via LLM and Diffusion Model. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP oral) 2025.
+2. Wei Liu, Liuan Wang, Jun Sun. NR-CION: Non-Rigid Consistent Image Composition Via Diffusion Model. International Conference on Pattern Recognition (ICPR poster) 2024.
+3. Wei Liu, Huigang Zhang, Xiaojie Xia, Liuan Wang, Jun Sun.Semantic-Embedded Knowledge Acquisition and Reasoning for Image Segmentation. IEEE International Conference on Image Processing (ICIP poster) 2023.
 4. Xiaojie Xia, Wei Liu, Liuan Wang, Jun Sun. HSIFoodIngr-64: A Dataset for Hyperspectral Food-Related Studies and a Benchmark Method on Food Ingredient Retrieval.  IEEE Access 2023.
 5. Xiaojie Xia, Wei Liu, Ying Zhang, Liuan Wang, Jun Sun. Key-Guided Identity Document Classification Method by Graph Attention Network. ICDAR 2021.
 6. Xiaojie Xia, Xiaoyi Yu, Wei Liu, Chunyan Zhang, Jun Sun, Satoshi Naoi. An Efficient off-Line Handwritten Japanese Address Recognition System. ICDAR 2019.
